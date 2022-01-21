@@ -13,7 +13,7 @@ Felix J. Herrmann, felix.herrmann@gatech.edu
 ### The schedule for Spring 2022 SLIM Reading Club Schedule is:
 
 **Friday 10am January 28 Generative Classifiers Part 1/2**		        
-Paper: [Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)  	 
+Paper: [Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)  
 Presenter: Ziyi (Francis) Yin     
 Outline:    
 - What is a Generative Classifier
