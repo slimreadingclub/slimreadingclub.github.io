@@ -35,51 +35,41 @@ Train INN w/ IB
 Detect OOD     
 
 Friday Feb 11
-Neural ODEs Part 1    
-[Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366v4.pdf)     
+FFJORD Part 1  
+[FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/pdf/1810.01367.pdf)     
 Outline:    
-Intro and concept (how is it different from prior approaches?)    
-Mathematical background    
-Discussion of automatic differentiation and its importance    
-Start continuous normalizing flows   
+- Introduction and motivation  
+- Connection to Neural ODEs  
+- Refresher on generative models  
+- FFJORD architecture  
 
-Friday February 4     
-Neural ODEs Part 1    
-[Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366v4.pdf)     
+Friday February 18
+FFJORD Part 2  
+[FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/pdf/1810.01367.pdf)     
 Outline:    
-Intro and concept (how is it different from prior approaches?)    
-Mathematical background    
-Discussion of automatic differentiation and its importance    
-Start continuous normalizing flows   
+- Review of week prior  
+- Numerical experiments  
+- Drawbacks  
+- Multiscale architecture  
 
-Friday February 11     
-Neural ODEs Part 2
-[Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366v4.pdf)      
-Outline:    
-Review of week prior    
-Finish continuous normalizing flows    
-Generative modeling and latent ODE trajectories - explanation     
-Conclusion     
-
-Friday February 18 
-SDEs Part 1
+Friday February 25
+SDEs Part 1  
 [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2011.13456.pdf)    
 [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239v1.pdf)    
 Outline:    
-Introduce problem and use DDPM paper to give an overview of diffusion     
-Discussion of score matching and Legevin dynamics     
-Discussion of diffusion result from Anderson (1982)     
-Start score-based generative modeling      
+- Introduction and review of diffusion   
+- Discussion of score matching and Legevin dynamics     
+- Discussion of diffusion result from Anderson (1982)     
+- Start score-based generative modeling      
 
-Friday February 25       
-SDEs Part 2
+Friday March 4
+SDEs Part 2  
 [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2011.13456.pdf)   
 Outline:     
-Review of week prior      
-Continue score-based generative modeling      
-Discussion of solvers and the reverse SDE      
-Conditional generation     
-
+- Review of week prior      
+- Continue score-based generative modeling      
+- Discussion of solvers and the reverse SDE      
+- Conditional generation
 
 Friday March 18 
 Likelihood-Free Inference Part 1      
