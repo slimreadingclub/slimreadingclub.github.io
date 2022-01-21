@@ -11,6 +11,37 @@ Felix J. Herrmann, felix.herrmann@gatech.edu
 
 The current plan for Spring 2022 SLIM Reading Club Schedule is:
 
+Friday January 28     
+Presenter: Ziyi (Francis) Yin      
+Generative Classifiers Part 1   
+[Generative Classifiers as a Basis for Trustworthy Image Classification](https://arxiv.org/pdf/2007.15036.pdf)          
+[Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)     
+Outline:    
+What is Generative Classifier
+Information Bottleneck     
+Cross information     
+Cross entropy     
+ 
+Friday Feb 4         
+Presenter: Tuna Erdinc
+Generative Classifiers Part 2
+[Generative Classifiers as a Basis for Trustworthy Image Classification](https://arxiv.org/pdf/2007.15036.pdf)     
+[Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)     
+Outline:    
+Generative Classifier VS INN      
+Motivate with problem of normal classifiers      
+Technique for heatmaps of image that is used for classification      
+Train INN w/ IB      
+Detect OOD     
+
+Friday Feb 11
+Neural ODEs Part 1    
+[Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366v4.pdf)     
+Outline:    
+Intro and concept (how is it different from prior approaches?)    
+Mathematical background    
+Discussion of automatic differentiation and its importance    
+Start continuous normalizing flows   
 
 Friday February 4     
 Neural ODEs Part 1    
@@ -49,24 +80,6 @@ Continue score-based generative modeling
 Discussion of solvers and the reverse SDE      
 Conditional generation     
 
-
-Friday March 4     
-Generative Classifiers Part 1       
-[Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)     
-Outline:    
-Information Bottleneck     
-Cross information     
-Cross entropy     
- 
-Friday March 11       
-Generative Classifiers Part 2
-[Generative Classifiers as a Basis for Trustworthy Image Classification](https://arxiv.org/pdf/2007.15036.pdf)     
-Outline:    
-Generative Classifier VS INN      
-Motivate with problem of normal classifiers      
-Technique for heatmaps of image that is used for classification      
-Train INN w/ IB      
-Detect OOD     
 
 Friday March 18 
 Likelihood-Free Inference Part 1      
