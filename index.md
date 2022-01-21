@@ -13,8 +13,8 @@ Felix J. Herrmann, felix.herrmann@gatech.edu
 ### The schedule for Spring 2022 SLIM Reading Club Schedule is:
 
 **Friday 10am January 28 Generative Classifiers Part 1/2**		        
-Paper: [Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)		 
-Presenter: Ziyi (Francis) Yin    
+Paper: [Training Normalizing Flows with the Information Bottleneck for Competitive Generative Classification](https://arxiv.org/pdf/2001.06448.pdf)  	 
+Presenter: Ziyi (Francis) Yin     
 Outline:    
 - What is a Generative Classifier
 - Information Bottleneck     
@@ -23,7 +23,7 @@ Outline:
  
 **Friday 10am February 4 Generative Classifiers Part 2/2**		       
 Paper:  [Generative Classifiers as a Basis for Trustworthy Image Classification](https://arxiv.org/pdf/2007.15036.pdf)     
-Presenter: Tuna Erdinc			
+Presenter: Tuna Erdinc  
 Outline:    
 - Generative Classifier VS INN      
 - Motivate with problem of normal classifiers      
@@ -41,7 +41,7 @@ Outline:
 - FFJORD architecture  
 
 **Friday 10am February 18 FFJORD Part 2/2**					
-Paper:  [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/pdf/1810.01367.pdf)
+Paper:  [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/pdf/1810.01367.pdf)  
 Presenter: Thomas J. Grady II	        
 Outline:    
 - Review of week prior  
