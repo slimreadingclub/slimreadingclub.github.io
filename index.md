@@ -52,7 +52,7 @@ Outline:
 **Friday 10am February 25 Stochastic Differential Equations Part 1/2**  	
 Paper:  [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2011.13456.pdf)    
 Paper:  [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)    
-Presenter: Thomas J. Grady II   	
+Presenter: Thomas J. Grady II   
 Outline:    
 - Introduction and review of diffusion   
 - Discussion of score matching and Legevin dynamics     
@@ -79,14 +79,14 @@ Outline:
 - Preview of Main result      
 	
 **Friday 10am March 18 Likelihood-Free Inference Part 2/3**   
-Paper: [BayesFlow LEARNING COMPLEX STOCHASTIC MODELS WITH INVERTIBLE NEURAL NETWORKS](https://arxiv.org/pdf/2003.06281.pdf) 
+Paper: [BayesFlow LEARNING COMPLEX STOCHASTIC MODELS WITH INVERTIBLE NEURAL NETWORKS](https://arxiv.org/pdf/2003.06281.pdf).    
 Presenter: Rafael Orozco   
 Outline:      
 -Recap of Theory     
 -Applications and Results     
 
 **Friday 10am April 1 Likelihood-Free Inference Part 3/3**      
-Paper: [Deep General Expectation Maximization](https://proceedings.neurips.cc/paper/2021/file/606c90a06173d69682feb83037a68fec-Paper.pdf) 
+Paper: [Deep General Expectation Maximization](https://proceedings.neurips.cc/paper/2021/file/606c90a06173d69682feb83037a68fec-Paper.pdf)   
 Presenter: Rafael Orozco   
 Outline:         	    
 - Big EM training algorithm     
