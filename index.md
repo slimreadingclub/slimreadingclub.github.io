@@ -61,6 +61,9 @@ Outline:
 - Multiscale architecture  
 
 **Friday 10am March 4 Stochastic Differential Equations Part 1/2**  	
+**Cancelled**
+
+**Friday 10am March 11 Stochastic Differential Equations Part 1/2**  	
 Paper:  [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2011.13456.pdf)    
 Paper:  [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)    
 Presenter: Thomas J. Grady II   
@@ -70,7 +73,7 @@ Outline:
 - Discussion of diffusion result from Anderson (1982)     
 - Start score-based generative modeling      
 
-**Friday 10am March 11 Stochastic Differential Equations Part 2/2**  
+**Friday 10am March 18 Stochastic Differential Equations Part 2/2**  
 Paper:  [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS](https://arxiv.org/pdf/2011.13456.pdf)  
 Presenter: Thomas J. Grady II    
 Outline:     
@@ -79,7 +82,7 @@ Outline:
 - Discussion of solvers and the reverse SDE      
 - Conditional generation
 
-**Friday 10am March 18 Likelihood-Free Inference Part 1/3**   
+**Friday 10am March 25 Likelihood-Free Inference Part 1/3**   
 Paper: [BayesFlow LEARNING COMPLEX STOCHASTIC MODELS WITH INVERTIBLE NEURAL NETWORKS](https://arxiv.org/pdf/2003.06281.pdf)     
 Presenter: Rafael Orozco   
 Outline:     
@@ -89,7 +92,7 @@ Outline:
 - Training Objective      
 - Preview of Main result      
 	
-**Friday 10am March 25 Likelihood-Free Inference Part 2/3**   
+**Friday 10am April 1 Likelihood-Free Inference Part 2/3**   
 Paper: [BayesFlow LEARNING COMPLEX STOCHASTIC MODELS WITH INVERTIBLE NEURAL NETWORKS](https://arxiv.org/pdf/2003.06281.pdf).    
 Presenter: Rafael Orozco   
 Outline:      
